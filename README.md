@@ -1,10 +1,9 @@
 <img align="center" src="assests/image2.gif" />
 
 <h1 align="center">
-    <span style="color: blue;">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kishlay!;"  />
-    </span>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kishlay!;&color=0000FF" />
 </h1>
+
 
 <h3 align="center">Tech Innovator Tackling Real Problems 🇮🇳</h3>
 
