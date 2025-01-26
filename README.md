@@ -1,11 +1,7 @@
 <img align="center" src="assests/image2.gif" />
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kishlay!;&color=0000FF" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Kishlay!;+Tech+Innovator+Tackling+Real+Problems+🇮🇳;&color=0000FF" />
 </h1>
-
-
-<h3 align="center">Tech Innovator Tackling Real Problems 🇮🇳</h3>
 
 <br/>
 
@@ -50,9 +46,22 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <!-- Animated snake GIF -->
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kishlay-kumar7/kishlay-kumar7/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
   <br/><br/><br/>
+  <p align="center">Your GitHub contributions will fill in as you contribute more!</p>
 </div>
 
 <hr/>
