@@ -16,9 +16,8 @@
 - 🌱 **I’m currently exploring:**  
   Advanced **Web Technologies** like **React**, **Node.js**, and **MongoDB**, while sharpening my **Full-Stack Development** skills.  
 
-- 💬 **Ask me about:**  
-  Backend development, scalable web solutions, or anything tech-related! Feel free to drop your queries **[here](https://github.com/kishlay-kumar7/kishlay-kumar7/issues)**, and I'll gladly help out.  
-
+- 💬 **Ask me about anything, Except Maths :sweat_smile:**  
+  
 - 🌐 **My vision:**  
   To **build a sustainable future** using the technology I know while continuously striving to learn and apply new tools that contribute to the greater good.  
 
@@ -28,9 +27,7 @@
 - ⚡ **Fun Fact:**  
   *"Every problem has a solution—sometimes it just needs a bit of chai ☕ and a peaceful place to think!"*
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Technologist%20by%20passion%20-%20%F0%9F%A4%96-lightgreen?style=for-the-badge" />
-</div>
+
 
 <hr style="opacity: 0.1; border: 1px solid #ccc;" />
 
@@ -53,7 +50,7 @@
 
 <hr style="opacity: 0.1; border: 1px solid #ccc;" />
 
-### ⚒️ **Languages, Frameworks & Tools**  
+### ⚒️ **Languages, Frameworks & Tools that I use**  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,cpp,python,c,nodejs,react,express,mongodb,mysql,github,git,figma,tailwind,bootstrap,vscode" />
 </div>
