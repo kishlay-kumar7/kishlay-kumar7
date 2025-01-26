@@ -68,7 +68,7 @@ div[align="center"] div {
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,bootstrap,vscode,github,figma,tailwind,git,c++,python,javascript,express,mongodb,c,mysql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,bootstrap,vscode,github,figma,tailwind,git,cpp,python,javascript,express,mongodb,c,mysql" />
 </div>
 
 <br/>
