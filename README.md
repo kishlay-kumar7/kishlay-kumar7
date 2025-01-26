@@ -9,16 +9,16 @@
 <br/>
 
 <div align="center">
-  <div style="display: inline-block; text-align: left; animation: fadeInLeft 1.5s ease;">
+  <div align="left">
     <p>🔭 I’m currently working on <b>LMS</b></p>
   </div>
-  <div style="display: inline-block; text-align: left; animation: fadeInRight 2.5s ease;">
+  <div align="left">
     <p>🌱 I’m currently learning <b>Web technologies</b></p>
   </div>
-  <div style="display: inline-block; text-align: left; animation: fadeInLeft 3.5s ease;">
+  <div align="left">
     <p>💬 Ask me about <b>Node.js, React, MongoDb... or anything</b> <a href="https://github.com/kishlay-kumar7/kishlay-kumar7/issues">here</a></p>
   </div>
-  <div style="display: inline-block; text-align: left; animation: fadeInRight 4.5s ease;">
+  <div align="left">
     <p>⚡ Fun Fact: "I believe every problem has a solution—sometimes it just needs a bit of chai and a peaceful place!"</p>
   </div>
 </div>
@@ -46,11 +46,11 @@
 <br/>
 <hr/>
 
- <div align="center">
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
+  <!-- Animated snake GIF -->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kishlay-kumar7/kishlay-kumar7/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div> 
 
@@ -71,30 +71,7 @@
 
 <br/>
 
-<style>
-@keyframes fadeInLeft {
-  0% {
-    opacity: 0;
-    transform: translateX(-30px);
-  }
-  100% {
-    opacity: 1;
-    transform: translateX(0);
-  }
-}
-
-@keyframes fadeInRight {
-  0% {
-    opacity: 0;
-    transform: translateX(30px);
-  }
-  100% {
-    opacity: 1;
-    transform: translateX(0);
-  }
-}
-
-div[align="center"] div {
-  margin: 15px 0;
-}
-</style>
+<!-- Adding animation using GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6gE5aY4UB9J8zP3y/giphy.gif" width="200" />
+</p>
