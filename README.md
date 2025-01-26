@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kishlay-kumar7.kishlay-kumar7" />
+<img align="right" src="assests/imagiing.gif" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kishlay!;" />
@@ -52,7 +52,7 @@
   <!-- Animated snake GIF -->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kishlay-kumar7/kishlay-kumar7/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
-</div> 
+</div>
 
 <hr/>
 
@@ -70,8 +70,3 @@
 <hr/>
 
 <br/>
-
-<!-- Adding animation using GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6gE5aY4UB9J8zP3y/giphy.gif" width="200" />
-</p>
