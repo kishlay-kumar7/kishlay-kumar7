@@ -1,16 +1,108 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<!--
-**kishlay-kumar7/kishlay-kumar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kishlay!;" />
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Tech Innovator Tackling Real Problems 🇮🇳</h3>
 
-- 🔭 I’m currently working on LMS
-- 🌱 I’m currently learning Full Stack
-- 👯 I’m looking to collaborate on Web and Ai technologies
-- 🤔 I’m looking for help with IOT field
-- 💬 Ask me about Tech?
-- 📫 How to reach me: kishlay141@gmail.com
-- 😄 Pronouns: Kishu
-- ⚡ Fun fact: I'm dedicated for making sustainable world
--->
+<br/>
+
+<div align="center">
+  <div style="display: inline-block; text-align: left; animation: fadeInLeft 1.5s ease;">
+    <p>🔭 I’m currently working on <b>LMS</b></p>
+  </div>
+  <div style="display: inline-block; text-align: left; animation: fadeInRight 2.5s ease;">
+    <p>🌱 I’m currently learning <b>Web technologies</b></p>
+  </div>
+  <div style="display: inline-block; text-align: left; animation: fadeInLeft 3.5s ease;">
+    <p>💬 Ask me about <b>Node.js, React, MongoDb... or anything</b> <a href="https://github.com/salesp07/salesp07/issues">here</a></p>
+  </div>
+  <div style="display: inline-block; text-align: left; animation: fadeInRight 4.5s ease;">
+    <p>⚡ Fun Fact: "I believe every problem has a solution—sometimes it just needs a bit of chai and a peaceful place!"</p>
+  </div>
+</div>
+
+<style>
+@keyframes fadeInLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes fadeInRight {
+  0% {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+div[align="center"] div {
+  margin: 15px 0;
+}
+</style>
+
+ 
+<div align="center"> 
+  <a href="mailto:kishlay141@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/kishlaykumar1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=Node.js,react,bootstrap,zustand,html,css,vscode,github,figma,tailwind,git,c++," />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
