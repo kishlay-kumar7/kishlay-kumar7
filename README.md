@@ -11,8 +11,7 @@
 👋 Hi there! I'm **Kishlay Kumar**, a passionate tech enthusiast and innovator from **India 🇮🇳**, driven by a desire to create sustainable solutions through the power of technology.  
 
 - 🔭 **I’m currently working on:**  
-  Building a cutting-edge **Learning Management System (LMS)** to make education more accessible and efficient.  
-
+  **Something interesting, will update here soon once done** 
 - 🌱 **I’m currently exploring:**  
   Advanced **Web Technologies** like **React**, **Node.js**, and **MongoDB**, while sharpening my **Full-Stack Development** skills.  
 
