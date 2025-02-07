@@ -2,31 +2,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Kishlay!;+Tech+Innovator+Tackling+Real+Problems+🇮🇳;+LLet's+build+something+together+!!;&color=0000FF" />
 </h1>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Welcome%20to%20My%20GitHub-FF6347?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
 ## 🌟 **About Me**
-
-👋 Hi there! I'm **Kishlay Kumar**, a passionate tech enthusiast and innovator from **India 🇮🇳**, driven by a desire to create sustainable solutions through the power of technology.  
-
+I'm **Kishlay Kumar**, from **India**, with a strong desire to create **sustainable solutions** through technology.  
 - 🔭 **I’m currently working on:**  
-  **Something interesting, will update here soon once done** 
-- 🌱 **I’m currently exploring:**  
-  Advanced **Web Technologies** like **React**, **Node.js**, and **MongoDB**, while sharpening my **Full-Stack Development** skills.  
-
-- 💬 **Ask me about anything, Except Maths :sweat_smile:**  
-  
+  **Full-Stack Projects** 
+- 🌱 **I currently need help with:**  
+  **AI Technologies, Internet of Things**  
 - 🌐 **My vision:**  
-  To **build a sustainable future** using the technology I know while continuously striving to learn and apply new tools that contribute to the greater good.  
-
-- 🛠️ **What I bring to the table:**  
-  A **different perspective** to solve challenges creatively, strong **Full-Stack Development knowledge**, and an unyielding willingness to **learn and adapt** quickly to build robust and efficient solutions.  
-
+  To **build a sustainable future** using technology while continuously learning and applying new tools.  
 - ⚡ **Fun Fact:**  
   *"Every problem has a solution—sometimes it just needs a bit of chai ☕ and a peaceful place to think!"*
 
-<hr style="opacity: 0.1; border: 1px solid #ccc;" />
+<hr style="opacity: 0.05; border: 0.2px solid #ccc;" />
 
 ## 📱 **Connect with Me**  
 <div align="center"> 
@@ -36,19 +23,13 @@
   <a href="https://linkedin.com/in/kishlaykumar1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://kishlay-kumar7.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Let's%20collaborate%20%E2%9C%94-%F0%9F%8C%9F-darkblue?style=for-the-badge" />
-</div>
 
-<hr style="opacity: 0.1; border: 1px solid #ccc;" />
+<hr style="opacity: 0.05; border: 0.5px solid #ccc;" />
 
-## ⚒️ **Languages, Frameworks & Tools that I use** 
-<br> <br> 
+## ⚒️ **Languages, Frameworks & Tools that I use**  
+<br>  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,cpp,python,c,nodejs,react,express,mongodb,mysql,github,git,figma,tailwind,bootstrap,vscode" />
 </div>
@@ -56,20 +37,17 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Tech%20Skills%20-%20%F0%9F%92%BB-lightblue?style=for-the-badge" />
 </div>
-<br>
-<hr style="opacity: 0.1; border: 1px solid #ccc;" />
 
-
+<hr style="opacity: 0.05; border: 0.5px solid #ccc;" />
 
 ### ⚡ **GitHub Stats**
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=kishlay-kumar7&count_private=true&theme=react&border_radius=10" alt="Streak Stats" />
-</div>
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=kishlay-kumar7&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=innovatewithkishlay&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
 </div>
 <br/>
 <div align="center">
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishlay-kumar7&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatewithkishlay&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </div>
+<br/>
+<hr style="opacity: 0.05; border: 0.5px solid #ccc;" />
 
