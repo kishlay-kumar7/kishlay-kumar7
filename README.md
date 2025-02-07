@@ -38,10 +38,6 @@ Whether it's **full-stack development** or **tinkering with AI & IoT**, I'm alwa
   <img src="https://skillicons.dev/icons?i=javascript,cpp,python,c,nodejs,react,express,mongodb,mysql,github,git,figma,tailwind,bootstrap,vscode" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Tech%20Skills%20-%20%F0%9F%92%BB-lightblue?style=for-the-badge" />
-</div>
-
 <hr style="opacity: 0.05; border: 0.5px solid #ccc;" />
 
 ### ⚡ **GitHub Stats**
