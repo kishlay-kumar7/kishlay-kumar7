@@ -59,29 +59,7 @@
 <br>
 <hr style="opacity: 0.1; border: 1px solid #ccc;" />
 
-### 🐍 **My Contributions**  
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Green%20Thumb%20for%20Contributions-%F0%9F%A4%97-lightgreen?style=for-the-badge" />
-</div>
-
-<hr style="opacity: 0.1; border: 1px solid #ccc;" />
 
 ### ⚡ **GitHub Stats**
 <div align="center">
